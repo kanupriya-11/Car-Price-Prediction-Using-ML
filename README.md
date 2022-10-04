@@ -13,6 +13,3 @@ The Diagrammatic representation of the whole procedure is given below.
 2. matplotlib.pyplot
 3. seaborn
 4. sklearn (SciKit-learn)
-
-## Some important functions used :- 
-1. pd.read_csv('url') = To read the dataset in pandas
